@@ -1,16 +1,39 @@
-### Hi there 👋
+### Olá, tudo bem?
+#### Me chamo Juliana Ferreira Ribeiro
+#### Sou uma desenvolvedora fullstack
 
-<!--
-**JulianaFerreiraRibeiro/JulianaFerreiraRibeiro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<img height = "150em" width = "" src = "https://github-readme-stats.vercel.app/api?username=JulianaFerreiraRibeiro&show_icons=true&theme=tokyonight">
 
-Here are some ideas to get you started:
+<img height = "150em" src = "https://github-readme-stats.vercel.app/api/top-langs/?username=JulianaFerreiraRibeiro&layout=compact">
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<hr>
+
+## Contato
+
+<a href = "https://www.linkedin.com/in/julianaferreiraribeiro/">   
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" heigth="50" width="60" />
+</a>
+
+<hr>
+
+## Linguagens
+
+<div display = "flex" direction = "row">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" heigth="50" width="60" />
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" heigth="50" width="60" align-items = "center" />
+
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" heigth="50" width="60" align-items = "center"/>
+
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" heigth="50" width="60"/>
+
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original-wordmark.svg" heigth="50" width="60"/>
+
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original-wordmark.svg" heigth="50" width="60"/>
+</div>
+          
+          

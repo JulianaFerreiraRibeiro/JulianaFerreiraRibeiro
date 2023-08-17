@@ -1,6 +1,6 @@
 ### Olá, tudo bem?
 #### Me chamo Juliana Ferreira Ribeiro
-#### Sou uma desenvolvedora fullstack
+#### Sou desenvolvedora fullstack
 
 <img height = "150em" width = "" src = "https://github-readme-stats.vercel.app/api?username=JulianaFerreiraRibeiro&show_icons=true&theme=tokyonight">
 

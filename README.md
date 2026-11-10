@@ -1,39 +1,22 @@
-### Olá, tudo bem?
-#### Me chamo Juliana Ferreira Ribeiro
-#### Sou desenvolvedora fullstack
+# Olá, sou a Juliana! 👋
 
-<img height = "150em" width = "" src = "https://github-readme-stats.vercel.app/api?username=JulianaFerreiraRibeiro&show_icons=true&theme=tokyonight">
+Sou desenvolvedora de software Full Stack, com 3 anos de experiência profissional em aplicações web voltadas ao setor financeiro.
 
-<img height = "150em" src = "https://github-readme-stats.vercel.app/api/top-langs/?username=JulianaFerreiraRibeiro&layout=compact">
+💻 **Experiência:** PHP, Laravel, JavaScript, Vue.js, APIs REST, SQL e integrações com serviços externos.
 
-<hr>
+🎓 **Formação:** graduanda em Análise e Desenvolvimento de Sistemas pela PUCRS e formada em Desenvolvimento Web Full Stack pela Kenzie Academy Brasil.
 
-## Contato
+🚀 **Atualmente:** aprofundando meus conhecimentos em desenvolvimento de software, testes automatizados, CI/CD e arquitetura de aplicações.
 
-<a href = "https://www.linkedin.com/in/julianaferreiraribeiro/">   
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" heigth="50" width="60" />
-</a>
+🔧 **Interesses:** desenvolvimento back-end, sistemas financeiros, bancos de dados e resolução de problemas técnicos.
 
-<hr>
+### Projetos em destaque
 
-## Linguagens
+**TaskFlow DevOps** — API REST desenvolvida com Laravel, testes automatizados e integração contínua com GitHub Actions.
 
-<div display = "flex" direction = "row">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" heigth="50" width="60" />
+**MedidaCerta** — Aplicação web para acompanhamento de medidas corporais e objetivos pessoais.
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" heigth="50" width="60" align-items = "center" />
+### Contato
 
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" heigth="50" width="60" align-items = "center"/>
-
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" heigth="50" width="60"/>
-
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original-wordmark.svg" heigth="50" width="60"/>
-
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original-wordmark.svg" heigth="50" width="60"/>
-</div>
-          
-          
+- LinkedIn: https://www.linkedin.com/in/julianaferreiraribeiro/
+- E-mail: julianaferreiraribeiro04@gmail.com
